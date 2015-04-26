@@ -1,0 +1,42 @@
+2015-03-26 20:33:06.928 EleApp[27244:268549] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ftr/Library/Developer/CoreSimulator/Devices/C36B2CD9-FD52-4064-933B-E895B77D59C3/data/Containers/Data/Application/82040D0A-8473-415E-ADBA-B68BE0E392AB/Library/Cookies/Cookies.binarycookies
+2015-03-26 20:33:07.196 EleApp[27244:268549] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-26 20:33:07.197 EleApp[27244:268549] Multi-tasking -> Device: YES, App: YES
+2015-03-26 20:33:07.212 EleApp[27244:268549] Unlimited access to network resources
+2015-03-26 20:33:07.220 EleApp[27244:268549] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-26 20:33:07.860 EleApp[27244:268549] Resetting plugins due to page load.
+2015-03-26 20:33:07.993 EleApp[27244:268549] Finished load of: file:///Users/ftr/Library/Developer/CoreSimulator/Devices/C36B2CD9-FD52-4064-933B-E895B77D59C3/data/Containers/Bundle/Application/C2379D40-71E2-464C-B42A-F8ECC1FD1FCF/EleApp.app/www/index.html
+2015-03-26 20:33:45.307 EleApp[27324:269384] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ftr/Library/Developer/CoreSimulator/Devices/C36B2CD9-FD52-4064-933B-E895B77D59C3/data/Containers/Data/Application/54CEAA85-5F84-42B3-BD91-1A084F1D2051/Library/Cookies/Cookies.binarycookies
+2015-03-26 20:33:45.374 EleApp[27324:269384] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-26 20:33:45.375 EleApp[27324:269384] Multi-tasking -> Device: YES, App: YES
+2015-03-26 20:33:45.376 EleApp[27324:269384] Unlimited access to network resources
+2015-03-26 20:33:45.377 EleApp[27324:269384] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-26 20:33:45.614 EleApp[27324:269384] Resetting plugins due to page load.
+2015-03-26 20:33:45.654 EleApp[27324:269384] Finished load of: file:///Users/ftr/Library/Developer/CoreSimulator/Devices/C36B2CD9-FD52-4064-933B-E895B77D59C3/data/Containers/Bundle/Application/F2D096FA-DD2D-44DD-B96A-A6B7D67F7425/EleApp.app/www/index.html
+2015-03-26 20:33:49.471 EleApp[27399:269652] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ftr/Library/Developer/CoreSimulator/Devices/C36B2CD9-FD52-4064-933B-E895B77D59C3/data/Containers/Data/Application/AA6201CE-49C1-457E-81B5-43863876BBBD/Library/Cookies/Cookies.binarycookies
+2015-03-26 20:33:49.543 EleApp[27399:269652] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-26 20:33:49.543 EleApp[27399:269652] Multi-tasking -> Device: YES, App: YES
+2015-03-26 20:33:49.544 EleApp[27399:269652] Unlimited access to network resources
+2015-03-26 20:33:49.546 EleApp[27399:269652] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-26 20:33:49.744 EleApp[27399:269652] Resetting plugins due to page load.
+2015-03-26 20:33:49.787 EleApp[27399:269652] Finished load of: file:///Users/ftr/Library/Developer/CoreSimulator/Devices/C36B2CD9-FD52-4064-933B-E895B77D59C3/data/Containers/Bundle/Application/426CADF7-098D-4A32-A636-EE04D39EB0ED/EleApp.app/www/index.html
